@@ -1,0 +1,15 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.18.0)
+  - PocketSVG (2.1.1)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK (~> 7.8)
+  - PocketSVG
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 658065b4cb5a299bea254c4d24bf7786b6d3e75d
+  PocketSVG: b5bd9de562adb211af33ab3a9a29dcacb3e8fe14
+
+PODFILE CHECKSUM: f055cb4e8ffd3d3907b19b19963ceea4a19b9e60
+
+COCOAPODS: 1.2.0
